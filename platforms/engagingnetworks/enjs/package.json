@@ -1,0 +1,7 @@
+{
+  "name": "enjs",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "ENJS — an ENgrid v2–inspired modular framework for Engaging Networks pages."
+}
