@@ -12,7 +12,7 @@
   "dependencies": {
     "@aws-sdk/client-ses": "^3.826.0",
     "@dsnp/parquetjs": "^1.8.7",
-    "@engine9-io/input-tools": "^1.9.2",
+    "@engine9/input-tools": "^2.1.1",
     "@sendgrid/client": "^8.1.6",
     "@sendgrid/mail": "^8.1.6",
     "debug": "^4.4.1",
